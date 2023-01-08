@@ -7,6 +7,4 @@ pandas
 numpy 
 argparse
 imutils
-pickle
 cv2
-os
