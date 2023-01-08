@@ -1,3 +1,4 @@
+pip-upgrader==1.4.15
 streamlit==1.16.0
 tensorflow==2.11.0
 imagenet-c==0.0.3
