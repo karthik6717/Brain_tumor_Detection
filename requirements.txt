@@ -7,6 +7,6 @@ collection==0.1.6
 pandas==1.5.2
 numpy==1.24.1
 argparse==1.4.0
-imutils==0.5.4
+imutils
 opencv-python
 
