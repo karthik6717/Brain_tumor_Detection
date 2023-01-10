@@ -55,7 +55,7 @@ st.text("Accepted Brain MRI scans | only jpg & jpeg & png files")
 # To show sample 
 mri_scan = st.checkbox("How does an MRI scan look")
 if mri_scan:
-    Image_1 = Image.open('Test Samples/Images/Y256.jpg')
+    Image_1 = Image.open('BrainTumor.png')
     st.image(Image_1, width=300, caption = 'Sample MRI scan')
 
 
